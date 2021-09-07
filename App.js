@@ -78,7 +78,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     flex: 1,
     alignItems: 'center',
-    backgroundColor: '#651fff',
+    backgroundColor: '#000',
     height: '100%',
   },
   dot: {
@@ -92,7 +92,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     minWidth: 130,
     position: 'absolute',
-    backgroundColor: '#222',
+    backgroundColor: '#651fff',
     paddingHorizontal: 20,
     paddingVertical: 10,
     transform: [

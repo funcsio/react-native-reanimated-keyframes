@@ -1,0 +1,1 @@
+### Using unstable version of `react-native-reanimated v2.3.0-alpha.3`. Facing challenges with iOS compatibility.
